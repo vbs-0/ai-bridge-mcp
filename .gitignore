@@ -1,0 +1,6 @@
+node_modules/
+shared/*.jsonl
+shared/runs/
+shared/reports/
+shared/*.log
+.env
